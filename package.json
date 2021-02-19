@@ -1,0 +1,16 @@
+{
+  "name": "log-watcher",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "author": "ttang <atory_cc>",
+  "license": "MIT",
+  "dependencies": {
+    "neon-cli": "^0.7.1",
+    "pm2": "^4.5.4"
+  },
+  "scripts": {
+    "install": "neon build",
+    "build": "neon build"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "name": "pm2http",
+    "cwd": "/Users/ttang/Practice/log-watcher",
+    "script": "pm2http.js",
+    "error_file": "log/err.log",
+    "out_file": "log/out.log"
+}
